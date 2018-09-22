@@ -1,0 +1,15 @@
+﻿[
+  {
+    "HotelId": 1,
+    "Amenities": [
+      "Free Wireless Internet",
+      "Free Parking",
+      "Housekeeping"
+    ],
+    "Photos": [
+      "URL1",
+      "URL2",
+      "URL3"
+    ]
+  }
+]
